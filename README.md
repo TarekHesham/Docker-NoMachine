@@ -17,7 +17,7 @@
 
  ```console  
 
-curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
+curl -sLkO [https://is.gd/nomachinewindows10](https://raw.githubusercontent.com/TarekHesham/Docker-NoMachine/main/nomachine-windows10.sh) ; bash nomachinewindows10
 
  ```
 
@@ -28,7 +28,7 @@ curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
 
  ```console  
 
-curl -sLkO https://is.gd/nomachinewine ; bash nomachinewine
+curl -sLkO [https://is.gd/nomachinewine](https://raw.githubusercontent.com/TarekHesham/Docker-NoMachine/main/nomachine-wine.sh) ; bash nomachinewine
 
  ```
 
@@ -38,7 +38,7 @@ curl -sLkO https://is.gd/nomachinewine ; bash nomachinewine
 
  ```console  
 
-curl -sLkO https://is.gd/nomachineMATE ; bash nomachineMATE
+curl -sLkO [https://is.gd/nomachineMATE](https://raw.githubusercontent.com/TarekHesham/Docker-NoMachine/main/nomachine-mate.sh) ; bash nomachineMATE
 
  ```
 - XFCE4 Desktop Environment:
@@ -47,11 +47,8 @@ curl -sLkO https://is.gd/nomachineMATE ; bash nomachineMATE
 
  ```console  
  
-curl -sLkO https://is.gd/nomachinexfce4 ; bash nomachinexfce4
+curl -sLkO [https://is.gd/nomachinexfce4](https://raw.githubusercontent.com/TarekHesham/Docker-NoMachine/main/nomachine-xfce4.sh) ; bash nomachinexfce4
 
  ```
 *FAQ: VM can't connect? Restart Cloud Shell then Re-run script.*
-
-*Main Repo: https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine*
-
 
